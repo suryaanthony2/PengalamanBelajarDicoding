@@ -1,2 +1,3 @@
 testing 123
-Ini teks beda
+Ini teks untuk pengujian di branch testing
+Ini teks tambahan untuk pengujian di branch yang akan di squash
