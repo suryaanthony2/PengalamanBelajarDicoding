@@ -22,8 +22,8 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 **21 Juni 2021**  
 Belajar menggunakan github dengan Dicoding
 
-**4 Maret 2022**
-Mencoba melakukan  
+**4 Maret 2022**  
+Mempelajari:  
 * clone ke local repository  
 * melakukan proses pull jika terjadi perubahan pada remote repository  
 * melakukan proses push ke remote repository dari local repository 
